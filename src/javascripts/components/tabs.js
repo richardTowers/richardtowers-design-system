@@ -1,7 +1,7 @@
-import 'govuk-frontend/govuk/vendor/polyfills/Function/prototype/bind'
-import 'govuk-frontend/govuk/vendor/polyfills/Element/prototype/classList'
-import 'govuk-frontend/govuk/vendor/polyfills/Event'
-import common from 'govuk-frontend/govuk/common'
+import 'richardtowers-frontend/src/govuk/vendor/polyfills/Function/prototype/bind'
+import 'richardtowers-frontend/src/govuk/vendor/polyfills/Element/prototype/classList'
+import 'richardtowers-frontend/src/govuk/vendor/polyfills/Event'
+import * as common from 'richardtowers-frontend/src/govuk/common'
 
 var nodeListForEach = common.nodeListForEach
 

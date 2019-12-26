@@ -1,4 +1,4 @@
-import 'govuk-frontend/govuk/vendor/polyfills/Event'
+import 'richardtowers-frontend/src/govuk/vendor/polyfills/Event'
 
 function ExamplePage ($module) {
   this.$module = $module

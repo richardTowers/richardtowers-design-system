@@ -1,13 +1,13 @@
-import common from 'govuk-frontend/govuk/common'
-import Accordion from 'govuk-frontend/govuk/components/accordion/accordion'
-import Button from 'govuk-frontend/govuk/components/button/button'
-import Details from 'govuk-frontend/govuk/components/details/details'
-import CharacterCount from 'govuk-frontend/govuk/components/character-count/character-count'
-import Checkboxes from 'govuk-frontend/govuk/components/checkboxes/checkboxes'
-import ErrorSummary from 'govuk-frontend/govuk/components/error-summary/error-summary'
-import Radios from 'govuk-frontend/govuk/components/radios/radios'
-import Header from 'govuk-frontend/govuk/components/header/header'
-import Tabs from 'govuk-frontend/govuk/components/tabs/tabs'
+import * as common from 'richardtowers-frontend/src/govuk/common'
+import Accordion from 'richardtowers-frontend/src/govuk/components/accordion/accordion'
+import Button from 'richardtowers-frontend/src/govuk/components/button/button'
+import Details from 'richardtowers-frontend/src/govuk/components/details/details'
+import CharacterCount from 'richardtowers-frontend/src/govuk/components/character-count/character-count'
+import Checkboxes from 'richardtowers-frontend/src/govuk/components/checkboxes/checkboxes'
+import ErrorSummary from 'richardtowers-frontend/src/govuk/components/error-summary/error-summary'
+import Radios from 'richardtowers-frontend/src/govuk/components/radios/radios'
+import Header from 'richardtowers-frontend/src/govuk/components/header/header'
+import Tabs from 'richardtowers-frontend/src/govuk/components/tabs/tabs'
 
 var nodeListForEach = common.nodeListForEach
 

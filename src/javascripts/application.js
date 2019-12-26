@@ -1,5 +1,5 @@
 import BackToTop from './components/back-to-top.js'
-import common from 'govuk-frontend/govuk/common'
+import * as common from 'richardtowers-frontend/src/govuk/common'
 import Example from './components/example.js'
 import AppTabs from './components/tabs.js'
 import Copy from './components/copy.js'

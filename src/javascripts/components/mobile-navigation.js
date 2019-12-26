@@ -1,6 +1,6 @@
-import 'govuk-frontend/govuk/vendor/polyfills/Element/prototype/classList'
+import 'richardtowers-frontend/src/govuk/vendor/polyfills/Element/prototype/classList'
 
-import common from 'govuk-frontend/govuk/common'
+import * as common from 'richardtowers-frontend/src/govuk/common'
 var nodeListForEach = common.nodeListForEach
 
 var navActiveClass = 'app-mobile-nav--active'

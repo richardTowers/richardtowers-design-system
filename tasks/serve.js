@@ -11,7 +11,7 @@ metalsmith.use(browsersync({
   files: [
     paths.source + '**/*',
     paths.views + '**/*',
-    'node_modules/govuk-frontend/**/*'
+    'node_modules/richardtowers-frontend/**/*'
   ] // files to watch
 }))
 
